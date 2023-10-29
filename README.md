@@ -2,7 +2,7 @@
 Moving turtle using inputs from the user in the 2D environment
 
 I have created three different motions in this project. 
-1. Linear Motion
+1. Linear Motion (xmovement.py)
 2. Rotational Motion
 3. Moving to a user input point
 
